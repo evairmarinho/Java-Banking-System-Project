@@ -1,5 +1,5 @@
 # ProjetoBancoJava
-Projeto bancário desenvolvido em Java, orientado a objeto usando a interface JOptionPane.
+Projeto bancário desenvolvido em Java, orientado a objetos, usando a interface JOptionPane e a IDE NetBeans.
 
 # Integrantes
 
