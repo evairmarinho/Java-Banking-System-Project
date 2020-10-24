@@ -1,7 +1,7 @@
-# ProjetoBancoJava
-Projeto bancário desenvolvido em Java, orientado a objetos, usando a interface JOptionPane e a IDE NetBeans.
+# Java-Banking-System-Project
+Banking project developed at the college in Java, object-oriented, using the JOptionPane interface and the NetBeans IDE.
 
-# Integrantes
+# Members
 
 - Evair Marinho Vilas Boas Porfirio
 
